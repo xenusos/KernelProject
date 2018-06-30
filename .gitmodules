@@ -1,0 +1,18 @@
+[submodule "Source/Bootstrap"]
+	path = Source/Bootstrap
+	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krlbootstrap.git
+[submodule "Source/CommonKernel"]
+	path = Source/CommonKernel
+	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/commonkernel.git
+[submodule "Source/Kernel"]
+	path = Source/Kernel
+	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/kernel.git
+[submodule "Source/LibOSTypes"]
+	path = Source/LibOSTypes
+	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krllibostypes.git
+[submodule "Source/LibOS"]
+	path = Source/LibOS
+	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krllibos.git
+[submodule "Source/LibCompiler"]
+	path = Source/LibCompiler
+	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krllibcompiler.git
