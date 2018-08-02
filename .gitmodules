@@ -16,3 +16,6 @@
 [submodule "Source/LibCompiler"]
 	path = Source/LibCompiler
 	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krllibcompiler.git
+[submodule "Source/Modules/SelfTest"]
+	path = Source/Modules/SelfTest
+	url = C:\\Users\\RSX\\Desktop\\Projects\\Xenus\\Kernel\\Project\\Source\\Modules\\SelfTest
