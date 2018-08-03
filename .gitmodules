@@ -1,21 +1,27 @@
 [submodule "Source/Bootstrap"]
 	path = Source/Bootstrap
-	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krlbootstrap.git
+	url = https://bitbucket.org/teamxenus/krlbootstrap.git
 [submodule "Source/CommonKernel"]
 	path = Source/CommonKernel
-	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/commonkernel.git
+	url = https://bitbucket.org/teamxenus/commonkernel.git
 [submodule "Source/Kernel"]
 	path = Source/Kernel
-	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/kernel.git
+	url = https://bitbucket.org/teamxenus/kernel.git
 [submodule "Source/LibOSTypes"]
 	path = Source/LibOSTypes
-	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krllibostypes.git
+	url = https://bitbucket.org/teamxenus/krllibostypes.git
 [submodule "Source/LibOS"]
 	path = Source/LibOS
-	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krllibos.git
+	url = https://bitbucket.org/teamxenus/krllibos.git
 [submodule "Source/LibCompiler"]
 	path = Source/LibCompiler
-	url = https://ItsTotallyRSX@bitbucket.org/teamxenus/krllibcompiler.git
+	url = https://bitbucket.org/teamxenus/krllibcompiler.git
 [submodule "Source/Modules/SelfTest"]
 	path = Source/Modules/SelfTest
-	url = C:\\Users\\RSX\\Desktop\\Projects\\Xenus\\Kernel\\Project\\Source\\Modules\\SelfTest
+	url = https://bitbucket.org/teamxenus/kpselftest.git
+[submodule "Source/Modules/NTOS"]
+	path = Source/Modules/NTOS
+	url = https://bitbucket.org/teamxenus/kpntos.git
+[submodule "Source/Modules/Template"]
+	path = Source/Modules/Template
+	url = https://bitbucket.org/teamxenus/kptemplate.git

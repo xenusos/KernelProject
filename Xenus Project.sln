@@ -44,6 +44,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NTOS", "Source\Modules\NTOS
 		{6731A7E7-0455-426E-94C3-4D69458EB721} = {6731A7E7-0455-426E-94C3-4D69458EB721}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SelfTest", "Source\Modules\SelfTest\SelfTest.vcxproj", "{18B6AA76-D6E8-4F44-B891-A8864D8FE43E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|AMD64 = Development|AMD64
@@ -77,6 +79,10 @@ Global
 		{3B84D1C6-CD1E-4FDB-80D7-FF498A28B119}.Development|x64.ActiveCfg = Development|x64
 		{3B84D1C6-CD1E-4FDB-80D7-FF498A28B119}.Development|x64.Build.0 = Development|x64
 		{3B84D1C6-CD1E-4FDB-80D7-FF498A28B119}.Development|x64.Deploy.0 = Development|x64
+		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E}.Development|AMD64.ActiveCfg = Development|x64
+		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E}.Development|x64.ActiveCfg = Development|x64
+		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E}.Development|x64.Build.0 = Development|x64
+		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E}.Development|x64.Deploy.0 = Development|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{E2103EDB-133A-42AD-BE85-94C8F2B670AC} = {86A78DD2-2C8E-41C8-A61E-55E2DED960C9}
 		{E2103EDB-133A-42AD-B125-94C8F2B670AC} = {86A78DD2-2C8E-41C8-A61E-55E2DED960C9}
 		{3B84D1C6-CD1E-4FDB-80D7-FF498A28B119} = {1F3E3855-F284-48B5-B1D5-1951544F8943}
+		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E} = {1F3E3855-F284-48B5-B1D5-1951544F8943}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C56799F5-9FD9-402A-A175-B1D1E8B3A972}
