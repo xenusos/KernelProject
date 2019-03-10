@@ -1,21 +1,21 @@
 [submodule "Source/Bootstrap"]
 	path = Source/Bootstrap
-	url = https://bitbucket.org/teamxenus/krlbootstrap.git
+	url = https://github.com/xenusos/KernelLKM.git
 [submodule "Source/CommonKernel"]
 	path = Source/CommonKernel
-	url = https://bitbucket.org/teamxenus/commonkernel.git
+	url = https://github.com/xenusos/KernelSourceCommon.git
 [submodule "Source/Kernel"]
 	path = Source/Kernel
-	url = https://bitbucket.org/teamxenus/kernel.git
+	url = https://github.com/xenusos/KernelSourceKernel
 [submodule "Source/LibOSTypes"]
 	path = Source/LibOSTypes
-	url = https://bitbucket.org/teamxenus/krllibostypes.git
+	url = https://github.com/xenusos/KernelSourceLibOS
 [submodule "Source/LibOS"]
 	path = Source/LibOS
-	url = https://bitbucket.org/teamxenus/krllibos.git
+	url = https://github.com/xenusos/KernelSourceLibOS.git
 [submodule "Source/LibCompiler"]
 	path = Source/LibCompiler
-	url = https://bitbucket.org/teamxenus/krllibcompiler.git
+	url = https://github.com/xenusos/KernelSourceLibCompiler.git
 [submodule "Source/Modules/SelfTest"]
 	path = Source/Modules/SelfTest
 	url = https://bitbucket.org/teamxenus/kpselftest.git
