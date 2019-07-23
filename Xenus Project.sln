@@ -54,6 +54,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SelfTest", "Source\Modules\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HDE", "Source\Modules\HDE\HDE.vcxproj", "{11D11B51-7B21-4AE6-B3B9-C2A0A53EC516}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibTL", "Source\LibTL\LibTL.vcxproj", "{1C8B8279-64F1-49E5-A2CF-AEAED400EC56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|AMD64 = Development|AMD64
@@ -73,6 +75,7 @@ Global
 		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E}.Development|AMD64.ActiveCfg = Development|x64
 		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E}.Development|AMD64.Build.0 = Development|x64
 		{11D11B51-7B21-4AE6-B3B9-C2A0A53EC516}.Development|AMD64.ActiveCfg = Development|x64
+		{1C8B8279-64F1-49E5-A2CF-AEAED400EC56}.Development|AMD64.ActiveCfg = Development|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +89,7 @@ Global
 		{3B84D1C6-CD1E-4FDB-80D7-FF498A28B119} = {1F3E3855-F284-48B5-B1D5-1951544F8943}
 		{18B6AA76-D6E8-4F44-B891-A8864D8FE43E} = {1F3E3855-F284-48B5-B1D5-1951544F8943}
 		{11D11B51-7B21-4AE6-B3B9-C2A0A53EC516} = {1F3E3855-F284-48B5-B1D5-1951544F8943}
+		{1C8B8279-64F1-49E5-A2CF-AEAED400EC56} = {86A78DD2-2C8E-41C8-A61E-55E2DED960C9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C56799F5-9FD9-402A-A175-B1D1E8B3A972}
